@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Science Student at NUST, Pakistan<br>I'm currently working on web-based-applications<br>I'm currently learning javascript & flutter
+Computer Science Student at NUST, Pakistan<br>I'm currently working on UI/UX Design & Android Development<br>I'm currently learning javascript & flutter
 
 
 ## 🌐 Socials:
